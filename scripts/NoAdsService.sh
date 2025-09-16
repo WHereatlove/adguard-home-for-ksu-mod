@@ -41,6 +41,9 @@ block_ad() {
     block_ad "/data/data/tv.danmaku.bili/app_mod_resource"
     block_ad "/data/data/com.bilibili.app.in/app_mod_resource"
     
+    #coolapk
+    block_ad "/data/data/com.coolapk.market/ksad_dynamic/"
+    
     # 中国广电
     block_ad "/data/data/com.ai.obc.cbn.app/files/splashShow"
     
