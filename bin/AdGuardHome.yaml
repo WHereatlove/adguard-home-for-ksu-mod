@@ -109,6 +109,10 @@ filters:
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
     name: Malicious URL Blocklist (URLHaus)
     id: 1735560833
+  - enabled: true
+    url: https://raw.githubusercontent.com/WHereatlove/personal-adguardhome-rule/main/personal.txt
+    name: PersonalRule
+    id: 2025091603
 whitelist_filters:
   - enabled: true
     url: https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
